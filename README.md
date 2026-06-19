@@ -1,5 +1,5 @@
 # E-commerce-Business-Intelligence-Dashboard-Olist-Case-Study
-This project involves an end-to-end analysis of the Olist E-commerce dataset (Brazil’s largest marketplace). Using Power BI, I transformed over 100k raw orders into a 3-page interactive dashboard to provide actionable insights into sales performance, logistics efficiency, and customer behavior.<br>
+This project involves an end-to-end analysis of the Olist E-commerce dataset (Brazil’s marketplace). Using Power BI, I transformed over 100k raw orders into a 3-page interactive dashboard to provide actionable insights into sales performance, logistics efficiency, and customer behavior.<br>
 
 Key Features & Insights:<br>
 Executive Summary: A high-level view of Sales Trends, Top Product Categories, and Payment Methods.<br>

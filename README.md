@@ -10,10 +10,10 @@ Tech Stack:<br>
 Data Cleaning: Power Query (M Language) for handling nulls and date formatting.<br>
 Data Modeling: Star Schema (connecting Orders, Customers, Sellers, and Products).
 <h3>1. Executive Summary</h3>
-<img src="page1.png" width="800">
+<img src="page1.PNG" width="800">
 
 <h3>2. Customer Analysis</h3>
-<img src="page3.png" width="800">
+<img src="page3.PNG" width="800">
 
 <h3>3. Logistics & Sellers</h3>
-<img src="page2.png" width="800">
+<img src="page2.PNG" width="800">
